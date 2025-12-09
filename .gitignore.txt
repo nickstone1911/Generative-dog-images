@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data and large artifacts
+data/
+models/
+outputs/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
